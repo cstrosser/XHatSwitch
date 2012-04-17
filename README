@@ -1,0 +1,17 @@
+XHatSwitch 1.0
+by Chris Strosser
+
+DESCRIPTION
+===========
+Supplements the four native X-Plane hat switch commands to 
+allow full use of eight-way hat switches.
+
+INSTALLATION
+============
+Copy the XHatSwitch folder into your X-Plane plugins folder.
+
+REQUIREMENTS
+============
+Windows
+
+(if someone is willing to compile Linux and Mac versions, I would be happy to include them)
